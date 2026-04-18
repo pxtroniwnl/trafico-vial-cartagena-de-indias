@@ -1,4 +1,4 @@
-# 🚦 Sistema Inteligente de Alerta de Tráfico Vehicular - Cartagena (Fase 1)
+# 🚦 Sistema Inteligente de Alerta de Tráfico Vehicular - Cartagena 
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 [![OSMnx](https://img.shields.io/badge/Library-OSMnx-orange.svg)](https://osmnx.readthedocs.io/)
